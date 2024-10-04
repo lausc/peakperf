@@ -39,3 +39,4 @@ nb-configuration.xml
 /.quarkus/cli/plugins/
 # TLS Certificates
 .certs/
+/.kotlin/sessions/kotlin-compiler-4465047854215303824.salive
